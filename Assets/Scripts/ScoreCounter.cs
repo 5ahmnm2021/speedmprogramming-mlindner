@@ -3,9 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ScoreCounter : MonoBehaviour
-
-int Score = 0
-
 {
-    
+    public bool correct;
+       
 }
