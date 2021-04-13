@@ -1,4 +1,4 @@
-# speedmprogramming-mlindner
+# speedprogramming-mlindner
 Leider Probleme mit den Buttons, konnten nicht geclickt werden, wurde nach 10 Minuten gelöst,
  es musste ein gänzlich neuer Canvas erstellt werden.
 
